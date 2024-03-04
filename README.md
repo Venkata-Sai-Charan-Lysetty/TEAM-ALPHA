@@ -1,2 +1,2 @@
-# TEAM-ALPHA
-# This is a group repository by Venkata Sai Charan Lysetty and Bhaavani Madabathula
+### TEAM-ALPHA (This is a group repository maintained by Venkata Sai Charan Lysetty and Bhaavani Madabathula)
+# Unveiling Insights of Chicago Crimes
